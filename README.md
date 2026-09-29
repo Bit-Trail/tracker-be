@@ -1,6 +1,6 @@
 # Task Tracker App
 
-A full-stack task management application with secure user authentication and protected task routes.
+A backend task management application with secure user authentication and protected task routes.
 
 ---
 
